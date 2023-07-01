@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "Led_Max_Then_Down_Min/Led_Max_Then_Down_Min.ino",
+    "port": "/dev/ttyACM0"
+}
